@@ -14,6 +14,11 @@
       "command": "npx",
       "args": ["tsx", "heygen/server.ts"],
       "cwd": "~/openclaw-mcp-salessuiteos"
+    },
+    "audiencelab": {
+      "command": "npx",
+      "args": ["tsx", "audiencelab/server.ts"],
+      "cwd": "~/openclaw-mcp-salessuiteos"
     }
   }
 }
