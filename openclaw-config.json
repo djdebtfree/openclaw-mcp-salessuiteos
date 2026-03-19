@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "maybetech": {
+      "command": "npx",
+      "args": ["tsx", "maybetech/server.ts"],
+      "cwd": "~/openclaw-mcp-salessuiteos"
+    },
+    "vapi": {
+      "command": "npx",
+      "args": ["tsx", "vapi/server.ts"],
+      "cwd": "~/openclaw-mcp-salessuiteos"
+    },
+    "heygen": {
+      "command": "npx",
+      "args": ["tsx", "heygen/server.ts"],
+      "cwd": "~/openclaw-mcp-salessuiteos"
+    }
+  }
+}
